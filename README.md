@@ -1,1 +1,1 @@
-Assignment on ssing Terraform create an AWS instances (ubuntu) in multiple regions
+Assignment on using Terraform create an AWS instance (ubuntu) in multiple regions
